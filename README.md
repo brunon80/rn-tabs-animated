@@ -9,4 +9,4 @@
 - Largura das tabs e posição baseados na quantidade de movimento do scroll
 
 ## Imagens
-![gif](https://i.imgur.com/N5oJlC7.gif)
+![gif](https://i.imgur.com/BJwidgJ.gif)
